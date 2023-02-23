@@ -4,22 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ead9ec1c-06c9-4124-b764-94f5359c2ed3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LLD.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritence/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritence/Instructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritence/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constructorChaining/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constructorChaining/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constructorChaining/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constructorChaining/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constructorChaining/D.java" afterDir="false" />
+    <list default="true" id="ead9ec1c-06c9-4124-b764-94f5359c2ed3" name="Changes" comment="Inheritence 1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/constructorChaining/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/constructorChaining/Client.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +83,30 @@
       <option name="presentableId" value="Default" />
       <updated>1677180138885</updated>
     </task>
+    <task id="LOCAL-00001" summary="Inheritence 1">
+      <created>1677184592100</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677184592101</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Inheritence 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inheritence 1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
