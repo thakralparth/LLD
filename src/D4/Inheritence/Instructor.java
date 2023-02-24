@@ -1,4 +1,4 @@
-package Inheritence;
+package D4.Inheritence;
 
 public class Instructor extends User{
     String batchName;

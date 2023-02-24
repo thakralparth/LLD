@@ -1,4 +1,4 @@
-package constructorChaining;
+package D4.constructorChaining;
 
 public class D extends C{
     D(){

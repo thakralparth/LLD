@@ -5,9 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ead9ec1c-06c9-4124-b764-94f5359c2ed3" name="Changes" comment="Inheritence 1">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/constructorChaining/C.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/constructorChaining/C.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/constructorChaining/D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/constructorChaining/D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Inheritence/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/D4/Inheritence/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Inheritence/Instructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/D4/Inheritence/Instructor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Inheritence/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/D4/Inheritence/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/constructorChaining/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/D4/constructorChaining/A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/constructorChaining/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/D4/constructorChaining/B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/constructorChaining/C.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/D4/constructorChaining/C.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/constructorChaining/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/D4/constructorChaining/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/constructorChaining/D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/D4/constructorChaining/D.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,13 +46,13 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.constructorChaining.Client">
+  <component name="RunManager" selected="Application.D4.constructorChaining.Client">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Inheritence.Client" />
+      <option name="MAIN_CLASS_NAME" value="D4.Inheritence.Client" />
       <module name="LLD" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Inheritence.*" />
+          <option name="PATTERN" value="D4.Inheritence.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -55,12 +60,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="constructorChaining.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="constructorChaining.Client" />
+    <configuration name="D4.constructorChaining.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="D4.constructorChaining.Client" />
       <module name="LLD" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="constructorChaining.*" />
+          <option name="PATTERN" value="D4.constructorChaining.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,7 +75,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.constructorChaining.Client" />
+        <item itemvalue="Application.D4.constructorChaining.Client" />
         <item itemvalue="Application.Client" />
       </list>
     </recent_temporary>
@@ -113,40 +118,49 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/constructorChaining/D.java</url>
+          <url>file://$PROJECT_DIR$/src/D4/constructorChaining/C.java</url>
           <line>3</line>
-          <properties class="constructorChaining.D" method="&lt;init&gt;">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/constructorChaining/C.java</url>
-          <line>3</line>
-          <properties class="constructorChaining.C" method="&lt;init&gt;">
+          <properties class="D4.Inheritence.constructorChaining.C" method="&lt;init&gt;">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/constructorChaining/B.java</url>
+          <url>file://$PROJECT_DIR$/src/D4/constructorChaining/B.java</url>
           <line>3</line>
-          <properties class="constructorChaining.B" method="&lt;init&gt;">
+          <properties class="D4.Inheritence.constructorChaining.B" method="&lt;init&gt;">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/constructorChaining/A.java</url>
+          <url>file://$PROJECT_DIR$/src/D4/constructorChaining/A.java</url>
           <line>3</line>
-          <properties class="constructorChaining.A" method="&lt;init&gt;">
+          <properties class="D4.Inheritence.constructorChaining.A" method="&lt;init&gt;">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/D4/constructorChaining/D.java</url>
+          <line>3</line>
+          <properties class="D4.Inheritence.constructorChaining.D" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/D4/constructorChaining/C.java</url>
+          <line>7</line>
+          <properties class="D4.Inheritence.constructorChaining.C" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
