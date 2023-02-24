@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="ead9ec1c-06c9-4124-b764-94f5359c2ed3" name="Changes" comment="Inheritence 1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/constructorChaining/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/constructorChaining/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/constructorChaining/C.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/constructorChaining/C.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/constructorChaining/D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/constructorChaining/D.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
